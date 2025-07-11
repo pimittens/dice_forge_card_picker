@@ -1,0 +1,146 @@
+[
+  {
+    "name" : "The Elder",
+    "position" : 1,
+    "points" : 0,
+    "set" : 0
+  },
+  {
+    "name" : "Wild Spirits",
+    "position" : 2,
+    "points" : 2,
+    "set" : 0
+  },
+  {
+    "name" : "Celestial Ship",
+    "position" : 3,
+    "points" : 4,
+    "set" : 1
+  },
+  {
+    "name" : "The Guardian's Owl",
+    "position" : 3,
+    "points" : 4,
+    "set" : 0
+  },
+  {
+    "name" : "The Guardian's Shield",
+    "position" : 4,
+    "points" : 6,
+    "set" : 1
+  },
+  {
+    "name" : "Minotaur",
+    "position" : 4,
+    "points" : 8,
+    "set" : 0
+  },
+  {
+    "name" : "Triton",
+    "position" : 5,
+    "points" : 8,
+    "set" : 1
+  },
+  {
+    "name" : "Gorgon",
+    "position" : 5,
+    "points" : 14,
+    "set" : 0
+  },
+  {
+    "name" : "Mirror of the Abyss",
+    "position" : 6,
+    "points" : 10,
+    "set" : 0
+  },
+  {
+    "name" : "Cyclops",
+    "position" : 7,
+    "points" : 8,
+    "set" : 1
+  },
+  {
+    "name" : "Sphinx",
+    "position" : 7,
+    "points" : 10,
+    "set" : 0
+  },
+  {
+    "name" : "Typhon",
+    "position" : 8,
+    "points" : 16,
+    "set" : 1
+  },
+  {
+    "name" : "Hydra",
+    "position" : 8,
+    "points" : 26,
+    "set" : 0
+  },
+  {
+    "name" : "Sentinel",
+    "position" : 9,
+    "points" : 6,
+    "set" : 1
+  },
+  {
+    "name" : "Cancer",
+    "position" : 9,
+    "points" : 8,
+    "set" : 0
+  },
+  {
+    "name" : "Helmet of Invisibility",
+    "position" : 10,
+    "points" : 4,
+    "set" : 0
+  },
+  {
+    "name" : "Cerberus",
+    "position" : 11,
+    "points" : 6,
+    "set" : 1
+  },
+  {
+    "name" : "Ferryman",
+    "position" : 11,
+    "points" : 12,
+    "set" : 0
+  },
+  {
+    "name" : "Tenacious Boar",
+    "position" : 12,
+    "points" : 4,
+    "set" : 1
+  },
+  {
+    "name" : "Satyrs",
+    "position" : 12,
+    "points" : 6,
+    "set" : 0
+  },
+  {
+    "name" : "Great Bear",
+    "position" : 13,
+    "points" : 2,
+    "set" : 1
+  },
+  {
+    "name" : "The Silver Hind",
+    "position" : 13,
+    "points" : 2,
+    "set" : 0
+  },
+  {
+    "name" : "The Blacksmith's Chest",
+    "position" : 14,
+    "points" : 2,
+    "set" : 0
+  },
+  {
+    "name" : "The Blacksmith's Hammer",
+    "position" : 15,
+    "points" : 0,
+    "set" : 0
+  }
+]
