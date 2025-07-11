@@ -15,7 +15,7 @@ public class CardsTest {
         Main.loadCards();
         for (int i = 1; i <= 15; i++) {
             for (int j = 0; j < rounds; j++) {
-                String randomValue = Main.selectCard(i);
+                String randomValue = Main.selectCard(i).name;
                 rands.compute(randomValue, (_, v) -> v == null ? 1 : v + 1);
             }
         }

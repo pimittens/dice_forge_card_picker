@@ -147,120 +147,120 @@
     "name" : "The Tree",
     "position" : 1,
     "points" : 2,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Merchant",
     "position" : 1,
     "points" : 2,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Wood Nymph",
     "position" : 2,
     "points" : 8,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Light",
     "position" : 4,
     "points" : 8,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Omniscient",
     "position" : 5,
     "points" : 8,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Goldsmith",
     "position" : 5,
     "points" : 4,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Abyssal Trident",
     "position" : 6,
     "points" : 10,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Left Hand",
     "position" : 7,
     "points" : 8,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Eternal Fire",
     "position" : 7,
     "points" : 10,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The First Titan",
     "position" : 8,
     "points" : 20,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Goddess",
     "position" : 8,
     "points" : 18,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Right Hand",
     "position" : 9,
     "points" : 10,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Eternal Night",
     "position" : 9,
     "points" : 8,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Mists",
     "position" : 11,
     "points" : 6,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Ancestor",
     "position" : 11,
     "points" : 6,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Wind",
     "position" : 12,
     "points" : 6,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Celestial Die",
     "position" : 12,
     "points" : 6,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Companion",
     "position" : 14,
     "points" : 2,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Blacksmith's Scepter",
     "position" : 15,
     "points" : 2,
-    "set" : 3
+    "set" : 2
   },
   {
     "name" : "The Twins",
     "position" : 15,
     "points" : 2,
-    "set" : 3
+    "set" : 2
   }
 ]
